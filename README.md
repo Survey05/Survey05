@@ -27,16 +27,8 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=survey05&theme=radical&hide_border=false" width="400" alt="GitHub Streak"/>
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=survey05&theme=radical&hide_border=false&layout=compact" width="400" alt="Top Langs"/>
 
 <br/><br/>
-
-## 🧭 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=survey05&label=Visitors&icon=2&color=6)](https://visitcount.itsvg.in)
 
 </div>
