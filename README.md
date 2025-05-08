@@ -1,9 +1,42 @@
-- 👋 Hi, I’m @Survey05
-- 👀 I’m interested in system, web, app
-- 🌱 I’m currently learning system
-- 📫 How to reach me 'ismingyun01@gmail.com'
+<div align="center">
 
-<!---
-Survey05/Survey05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>🚀 Welcome to <strong><code>@Survey05</code></strong>'s GitHub Profile</h1>
+
+<br/>
+
+## 🙋‍♂️ About Me
+
+👨‍💻 &nbsp;Hi there! I'm **@Survey05**  
+🔎 &nbsp;I’m passionate about **System**, **Web**, and **Server** development  
+🛠️ &nbsp;Currently diving deeper into **System Programming**  
+📧 &nbsp;You can reach me at: **ismingyun01@gmail.com**
+
+<br/><br/>
+
+## 🧰 Tech Stack
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<br/><br/>
+
+## 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=survey05&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=survey05&theme=radical&hide_border=false" width="400" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=survey05&theme=radical&hide_border=false&layout=compact" width="400" alt="Top Langs"/>
+
+<br/><br/>
+
+## 🧭 Visitor Count
+
+[![](https://visitcount.itsvg.in/api?id=survey05&label=Visitors&icon=2&color=6)](https://visitcount.itsvg.in)
+
+</div>
