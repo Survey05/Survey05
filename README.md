@@ -8,7 +8,7 @@
 
 👨‍💻 &nbsp;Hi there! I'm **@Survey05**  
 🔎 &nbsp;I’m passionate about **System**, **Web**, and **Server** development  
-🛠️ &nbsp;Currently diving deeper into **System Programming**  
+🛠️ &nbsp;Currently diving deeper into **Server Programming**  
 📧 &nbsp;You can reach me at: **ismingyun01@gmail.com**
 
 <br/><br/>
